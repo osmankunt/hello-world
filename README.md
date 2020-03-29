@@ -1,2 +1,4 @@
 # hello-world
-Just an example of repository
+
+This is just an example.
+This is just to show 'commit'
